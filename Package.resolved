@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "swift-bar",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swift-biome/swift-bar",
+      "state" : {
+        "revision" : "5a28757a39a7799bb9945703a2d8a961318055c9",
+        "version" : "0.1.0"
+      }
+    }
+  ],
+  "version" : 2
+}
