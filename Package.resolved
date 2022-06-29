@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/swift-biome/swift-bar",
       "state" : {
-        "revision" : "5a28757a39a7799bb9945703a2d8a961318055c9",
-        "version" : "0.1.0"
+        "revision" : "f23f179a1e1cd3130255a95052dadd362347dae9",
+        "version" : "0.2.0"
       }
     }
   ],
