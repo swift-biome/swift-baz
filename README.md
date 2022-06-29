@@ -1,3 +1,3 @@
-# swift-bar
+# swift-baz
 
 A test package.
